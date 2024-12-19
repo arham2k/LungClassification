@@ -1,5 +1,18 @@
 # Lung Classification Model
 
+## About This Project
+
+This is a personal project developed as part of my journey in the field of Biomedical Engineering (BME) and Electrical and Computer Engineering (ECE). I hold an undergraduate degree in Biomedical Engineering and am currently pursuing a master's degree in Electrical and Computer Engineering. This project represents an opportunity to apply machine learning and computer vision techniques to detect and classify lung conditions such as COVID-19, pneumonia, and normal conditions from chest X-rays.
+
+The aim of this project is to create a deep learning model capable of automatically analyzing X-ray images and providing accurate classifications, helping to enhance the diagnosis process.
+
+### Key Objectives:
+- Implement a Convolutional Neural Network (CNN) for lung disease classification.
+- Visualize and interpret model predictions with confidence scores.
+- Use real-world medical datasets to train the model and evaluate performance.
+
+This project has been a valuable learning experience and a way to apply my academic knowledge to real-world challenges.
+
 This project aims to classify chest X-ray images into three categories: COVID-19, Normal, and Pneumonia. The classification model is built using TensorFlow and Keras, with Convolutional Neural Networks (CNNs) for image processing. The dataset used in this project is the COVID-19 Radiography Dataset, which contains labeled chest X-ray images for each class.
 
 ## Dataset
